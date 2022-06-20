@@ -7,6 +7,6 @@
 <br>
 <ul>
   <li>Na primeira e segunda questão, alterar o usuário (se for preciso) e senha do mysql de acordo com as definidas na sua máquina local, na classe           ConnectionFactory</li>
-  <li>Na classe Main da primeira questão, expecíficamente na linha 11, criei um método para quando inserir os 3 produtos a tabela resete, ela está           comentada, assim você pode inserir produtos infinitamente ou resetar a tabela e inserir descomentando a linha 11.</li>
+  <li>Na classe Main da primeira questão, expecíficamente na linha 25, chamei um método para quando inserir os 3 produtos a tabela resete, ela está           comentada, assim você pode inserir produtos infinitamente ou resetar a tabela e inserir descomentando a linha 25.</li>
 </ul>
 
